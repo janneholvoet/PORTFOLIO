@@ -236,7 +236,7 @@
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Other Work</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"ABOUT.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Other Work</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/281854-10204510675481137-8123784410512487405-n-600x830.jpg",
